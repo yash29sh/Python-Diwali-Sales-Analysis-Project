@@ -2,7 +2,7 @@
 
 🎉 Python Diwali Sales Analysis Project : Unlocking Key Insights for Business Growth 🎉
 
-I'm excited to share my latest Python project focused on analysing Diwali sales data to uncover critical trends and insights. Through an in-depth exploration of customer demographics, purchasing patterns and product preferences, this project aims to help businesses refine their sales strategies and enhance decision-making. Huge thanks to Rishabh Mishra for his invaluable guidance! 🙌
+I'm excited to share my latest Python project focused on analysing Diwali sales data to uncover critical trends and insights. Through an in-depth exploration of customer demographics, purchasing patterns and product preferences, this project aims to help businesses refine their sales strategies and enhance decision-making.
 
 
 💡 Project Objectives:
